@@ -17,3 +17,4 @@
     * Base repository: NCT
     * Head repository: Của bạn
   9. Nhấn Create pull request
+  10. Báo cho người phụ trách để merge code và cập nhật bài giảng
